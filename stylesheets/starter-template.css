@@ -1,0 +1,40 @@
+
+.container{
+    width:970px;
+}
+p ,li{
+font-size: 18px;
+
+}
+.row{
+    padding-bottom: 30px;
+}
+#splash{
+color:white;
+ padding: 20px 0;
+ font-size: 18px;
+}
+
+#how, #shibie, #fangxin{
+    background:#4CAF50;
+color:white;
+ padding: 50px 0;
+ font-size: 18px;
+}
+#benifit, #lanjie, #shoufei{
+
+ padding: 50px 0;
+}
+.forbidden{
+padding-bottom:80px;
+}
+
+.forbidden img {display:block; margin:0 auto;}
+
+.need-border{
+    border-right:solid 1px lightgray;
+}
+
+a.btn{
+    font-size:24px;
+}
