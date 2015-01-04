@@ -1,4 +1,6 @@
-
+body{
+font-family:"Lucida Grande", "Microsoft YaHei", "STHeiti", "SimSun","Arial","Verdana","sans-serif";
+}
 .container{
     width:970px;
 }
