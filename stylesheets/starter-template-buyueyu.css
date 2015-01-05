@@ -1,0 +1,38 @@
+body{
+font-family:"Lucida Grande", "Microsoft YaHei", "STHeiti", "SimSun","Arial","Verdana","sans-serif";
+}
+
+p ,li{
+font-size: 18px;
+
+}
+.row{
+    padding-bottom: 30px;
+}
+#splash{
+color:white;
+ padding: 20px 0;
+ font-size: 18px;
+}
+
+#how, #lanjie{
+    background:#4CAF50;
+color:white;
+ padding: 50px 0;
+ font-size: 18px;
+}
+#benifit, #fangxin, #shoufei{
+ padding: 50px 0;
+}
+
+#how .col-md-5{
+background:white;
+}
+
+.need-border{
+    border-right:solid 1px lightgray;
+}
+
+a.btn{
+    font-size:24px;
+}
